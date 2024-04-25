@@ -1,4 +1,4 @@
-# Linux_logo RPM
+# Linux_Logo RPM
 
 An ANSI Color Penguin Logo that can be run at bootup, at login, and many other interesting times. This is a Fedora port for linux_logo project started in 1997 http://www.deater.net/weave/vmwprod/linux_logo/
 
